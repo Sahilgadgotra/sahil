@@ -2,6 +2,11 @@
 
 We will look at how to use the OpenCV library to recognize objects on Android using feature extraction.
 
+# Requirements
+
+# 1. Android Studio
+# 2. Opencv-3.4.0-android-sdk
+
 
 I am using Android Studio and you can follow the link(https://developer.android.com/studio/index.html) to download and install Android studio and SDK tools 
 
