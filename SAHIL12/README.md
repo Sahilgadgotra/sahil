@@ -6,6 +6,10 @@ We will look at how to use the OpenCV library to recognize objects on Android us
 
 # 1. Android Studio
 # 2. Opencv-3.4.0-android-sdk
+# 3. Latest android build tools
+
+
+# Getting started
 
 
 I am using Android Studio and you can follow the link(https://developer.android.com/studio/index.html) to download and install Android studio and SDK tools 
@@ -22,5 +26,9 @@ Here is a link-->  (https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature
  (https://stackoverflow.com/questions/27813446/opencv-error-assertion-failed-src-dims-2-info-height-uint32-t)
  (https://stackoverflow.com/questions/6910332/convert-matrix-of-type-cv-32fc1-to-cv-64fc1)
  Then you can create an assets folder on android and then you can copy paste the image to that folder. You can follow this link(https://stackoverflow.com/questions/18302603/where-do-i-place-the-assets-folder-in-android-studio) to create an assets folder inside your project.
+ 
+Thanks!!!!!!!!
+
+
  
  
